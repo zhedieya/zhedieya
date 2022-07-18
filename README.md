@@ -41,7 +41,7 @@
 - :speech_balloon: &nbsp;我喜欢追剧·电影·数码·足球等等等等
 - :mailbox: &nbsp;可以在我的邮箱上给我留言: 318992691cyk@gmail.com
 
-<p align="left">
+<!-- <p align="left">
   <a href="#">
    <img src="https://raw.githubusercontent.com/PlayGuitar-CoderQ/icon-readme/489ff606afaa77742f167091431b983e9518c422/svg/social/twitter.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a> 
@@ -55,7 +55,7 @@
     <a href="#">
    <img src="https://raw.githubusercontent.com/PlayGuitar-CoderQ/icon-readme/489ff606afaa77742f167091431b983e9518c422/svg/social/tiktok.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>
-</p>
+</p> -->
 
 <br>
 
