@@ -59,12 +59,12 @@
 
 <br>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=PlayGuitar-CoderQ&show_icons=true&hide_border=true&theme=vue-dark" />
+<img  src="https://github-readme-stats.vercel.app/api?username=zhedieya&show_icons=true&hide_border=true&theme=vue-dark" />
 
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PlayGuitar-CoderQ&theme=blueberry) ](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhedieya&theme=blueberry) ](https://git.io/streak-stats)
 
 <br>
 
