@@ -30,7 +30,7 @@
 
 <h1 align="left" id="PlayGuitar-CoderQ-title"></h1>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=PlayGuitar-CoderQ&data=followers,repositories,commits)](https://github.com/PlayGuitar-CoderQ/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=zhedieya&data=followers,repositories,commits)](https://github.com/PlayGuitar-CoderQ/github-widgetbox)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
