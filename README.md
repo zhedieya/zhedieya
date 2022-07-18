@@ -1,4 +1,4 @@
-![svg](https://github.com/PlayGuitar-CoderQ/PlayGuitar-CoderQ/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+<!-- ![svg](https://github.com/PlayGuitar-CoderQ/PlayGuitar-CoderQ/blob/main/profile-3d-contrib/profile-night-rainbow.svg) -->
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=zhedieya&height=150&fontSize=60&desc=折叠鸭&descAlignY=75&descAlign=60)
 
@@ -14,18 +14,18 @@
   <a href="#">
    <img src="https://raw.githubusercontent.com/PlayGuitar-CoderQ/icon-readme/489ff606afaa77742f167091431b983e9518c422/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:4px">
   </a>
-  <a href="#">
+  <!-- <a href="#">
    <img src="https://raw.githubusercontent.com/PlayGuitar-CoderQ/icon-readme/489ff606afaa77742f167091431b983e9518c422/svg/dev/tools/jetbrains_webstorm.svg" alt="jetbrains_webstorm" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="#">
+  </a> -->
+  <!-- <a href="#">
    <img src="https://raw.githubusercontent.com/PlayGuitar-CoderQ/icon-readme/489ff606afaa77742f167091431b983e9518c422/svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">
-  </a> 
+  </a>  -->
     <a href="#">
    <img src="https://raw.githubusercontent.com/PlayGuitar-CoderQ/icon-readme/489ff606afaa77742f167091431b983e9518c422/svg/dev/misc/chrome.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>
-   <a href="#">
+   <!-- <a href="#">
    <img src="https://raw.githubusercontent.com/PlayGuitar-CoderQ/icon-readme/489ff606afaa77742f167091431b983e9518c422/svg/dev/tools/bash.svg" alt="Instagram" style="vertical-align:top; margin:4px">
-  </a>
+  </a> -->
 </p>
 
 <h1 align="left" id="PlayGuitar-CoderQ-title"></h1>
