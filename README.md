@@ -4,7 +4,7 @@
 
 ![Skill](https://img.shields.io/badge/My_Skill👇-000?style=for-the-badge&logo=amp&logoColor=005AF0)
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,vue,webpack,vite,nodejs,mysql,electron,java,spring,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,webpack,vite,nodejs)](https://skillicons.dev)
 
 <br>
 
